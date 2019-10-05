@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1570191242 source:d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570191790 source:d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570191807 d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\arrayemployees.h
+
+1570191135 d:\federicosavastano\materialparcial-master\tp2version2\tp2ver2\func.h
+
+1570232453 source:d:\progrmacion nuevo\tp2version2\tp2ver2\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570238002 source:d:\progrmacion nuevo\tp2version2\tp2ver2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570233816 d:\progrmacion nuevo\tp2version2\tp2ver2\arrayemployees.h
+
+1570184452 d:\progrmacion nuevo\tp2version2\tp2ver2\func.h
+
+1570237967 source:d:\progrmacion nuevo\tp2version2\tp2ver2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570240643 source:d:\progrmacion nuevo\tp2version2\tp_2_empleados\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570239190 d:\progrmacion nuevo\tp2version2\tp_2_empleados\arrayemployees.h
+
+1570239011 d:\progrmacion nuevo\tp2version2\tp_2_empleados\func.h
+
+1570239161 source:d:\progrmacion nuevo\tp2version2\tp_2_empleados\func.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
+1570240911 source:d:\progrmacion nuevo\tp2version2\tp_2_empleados\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arrayEmployees.h"
+	"func.h"
+
